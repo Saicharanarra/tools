@@ -5,3 +5,10 @@ continous integration Jenkins
 configuration management Ansible
 containerization with docker
 and cloud tenchnologies AWS
+IAM service
+S3 service
+EC2 service
+Cloud Front service
+EFS service
+VPC service
+
